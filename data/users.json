@@ -1,0 +1,32 @@
+{"users":[
+        {
+            "profileName":"WebDeveloper",
+            "firstName":"John",
+            "lastName":"Byrne",
+            "email":"html5css3@outlook.com",
+            "password":"pword",
+            "joinedMonth":"Jun",
+            "joinedDay":10,
+            "joinedYear":2010
+        },
+        {
+            "profileName":"BlogJoe",
+            "firstName":"Joe",
+            "lastName":"Bloggs",
+            "email":"jbl@gmail.com",
+            "password":"jbpw87",
+            "joinedMonth":"Jul",
+            "joinedDay":12,
+            "joinedYear":2008
+        },
+        {
+            "profileName":"SueJones",
+            "firstName":"Sue",
+            "lastName":"Jones",
+            "email":"test@test.com",
+            "password":"p12345",
+            "joinedMonth":"Aug",
+            "joinedDay":26,
+            "joinedYear":2000
+        }
+]}

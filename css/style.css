@@ -1,0 +1,45 @@
+root{ 
+    display: block;
+}
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 75%;
+}
+/* Table selectors / declarations */
+.users-table {
+    border: 1px solid;
+    width: 600px;
+    border-collapse:collapse; 
+    border-color:#000000; 
+    border-style:solid; 
+    border-width:2px;
+}
+.users-table td {
+    padding: 8px;
+    border-color:#000; /*grey*/
+    border-style:solid; 
+    border-width:1px;
+    cursor: pointer;
+}
+.users-table td:hover {
+    background-color: #8C4FB4;
+    color: #E5BEFE;
+}
+.users-table tr {
+    border-color:#000; /*grey*/
+    border-style:solid; 
+    border-width:1px;
+}
+.table-row-title {
+    background-color: #00315A;
+    color: #fff;
+}
+.table-row-odd {
+    background-color: #7EC4FF;
+    color: #000;
+}
+.table-row-even {
+    background-color: #49ADFF;
+    color: #000;
+}
+
